@@ -1,0 +1,22 @@
+# To-Do List Application
+
+## Author
+vishnuvardhan s
+## Description
+This is a simple To-Do List application built using Python and Tkinter. It provides an intuitive GUI for users to manage their tasks efficiently.
+
+## Features
+-  **Add, View, and Delete Tasks**: Users can add new tasks, view their task list, and delete tasks when completed.
+- **Persistent Storage**: Tasks are saved in a text file (`tasks.txt`) so they remain available even after closing the application.
+-  **Error Handling**: Prevents empty task entries and invalid deletions.
+
+## Installation and Usage
+
+### **Requirements**
+Ensure you have **Python 3** installed on your system.
+
+### **Steps to Run the Application**
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/your-username/todo-list.git
+   cd todo-list
